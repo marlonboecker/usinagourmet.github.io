@@ -7,6 +7,7 @@
         .container{
             width: 70%;
             padding: 20px;
+            margin: 0 auto;
         }
 
         .container img{
