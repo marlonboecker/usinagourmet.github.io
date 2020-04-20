@@ -5,12 +5,13 @@
     <title>Title</title>
     <style>
         .container{
-            width: 100%;
+            width: 70%;
             padding: 20px;
         }
-        
+
         .container img{
             width: 100%;
+            display: block;
         }
     </style>
 </head>
