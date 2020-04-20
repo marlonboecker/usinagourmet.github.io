@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Cardápio Usina Gourmet</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport">
     <style>
         .container{
             width: 70%;
@@ -15,7 +16,7 @@
             display: block;
         }
 
-        @media only screen and (max-width: 600px) {
+        @media only screen and (max-width: 400px) {
             .container{
                 width: 100%;
                 padding: 0;
