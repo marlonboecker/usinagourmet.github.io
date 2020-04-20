@@ -14,6 +14,14 @@
             width: 100%;
             display: block;
         }
+
+        @media only screen and (max-width: 600px) {
+            .container{
+                width: 100%;
+                padding: 0;
+                margin: 0 auto;
+            }
+        }
     </style>
 </head>
 <body>
